@@ -11,8 +11,8 @@
 | 3 -(29 a 4 setembro)   | Coletar bibliografia para o estudo de caso do tema proposto|          |
 | 3 -(22 a 4 setembro)   | Elaboração do cronograma inicial                           |          |
 | 3 -(22 a 4 setembro)   | Finalizar o gateway da câmera da intelbras                 |          |
-| 3 -(22 a 4 setembro)   | Coletar bibliografia para o estudo de caso do tema proposto|          |
-| 4 -(5 a 11 setembro)   | Estudar toda a bibliografia coletada                       |          |
+| 3 -(22 a 4 setembro)   | Leitura da documentação do robô Happy Feet                 |          | 
+| 4 -(5 a 11 setembro)   | Leitura da documentação do robô Happy Feet                 |          |
 | 4 -(5 a 11 setembro)   | Estudo do projeto MobiLysa(artigos e repositórios)         |          |
 | 5 -(12 a 18 setembro)  | Estudar toda a bibliografia coletada                       |          |
 | 5 -(12 a 18 setembro)  | Estudo do projeto MobiLysa(artigos e repositórios)         |          |
