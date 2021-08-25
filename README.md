@@ -15,8 +15,17 @@
 | 4 -(5 a 11 setembro)   | Estudo do projeto mobilysa(artigos e repositórios)         |          |
 | 5 -(12 a 18 setembro)  | Estudar toda a bibliografia coletada                       |          |
 | 5 -(12 a 18 setembro)  | Estudo do projeto mobilysa(artigos e repositórios)         |          |
-| 5 -(12 a 18 setembro)  | Estudar toda a bibliografia coletada                       |          |
-| 5 -(12 a 18 setembro)  | Estudo do projeto mobilysa(artigos e repositórios)         |          |
-
-
-Analise critica das principais técnicas de Localização
+| 6 -(19 a 25 setembro)  | Estudar toda a bibliografia coletada                       |          |
+| 6 -(19 a 25 setembro)  | Estudo do projeto mobilysa(artigos e repositórios)         |          |
+| 7 -(26 a 02 outubro)   | Escrita inicial do artigo                                  |          |
+| 8 -(03 a 09 outubro)   | Analise de viabilidade das técnicas de localizão e fusão de sensores      |          |
+| 8 -(03 a 09 outubro)   | Elaboração de algoritimos e simulação das solucões escolhidas             |          |
+| 9 -(10 a 16 outubro)   | Analise de viabilidade das técnicas de localizão e fusão de sensores      |          |
+| 9 -(10 a 16 outubro)   | Elaboração de algoritimos e simulação das solucões escolhidas             |          |
+|10 -(17 a 23 outubro)   | Analise de viabilidade das técnicas de localizão e fusão de sensores      |          |
+|10 -(17 a 23 outubro)   | Elaboração de algoritimos e simulação das solucões escolhidas             |          |
+|11 -(24 a 30 outubro)   | Analise de viabilidade das técnicas de localizão e fusão de sensores      |          |
+|11 -(24 a 30 outubro)   | Elaboração de algoritimos e simulação das solucões escolhidas             |          |
+|12 -(31 a 06 novembro)  | Escrita final do artigo                                                   |          |
+|13 -(7 a 13 novembro)   | Escrita final do artigo                                                   |          |
+|13 -(14 a 20 novembro)  | Escrita final do artigo                                                   |          |
