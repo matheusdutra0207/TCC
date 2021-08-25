@@ -30,3 +30,10 @@
 |12 -(31 a 06 novembro)  | Escrita final do artigo                                                     |          |
 |13 -(7 a 13 novembro)   | Escrita final do artigo                                                     |          |
 |13 -(14 a 20 novembro)  | Escrita final do artigo                                                     |          |
+
+
+
+## Diagrama das Soluções encontradas para o tema proposto
+<br />
+
+![](https://github.com/matheusdutra0207/TCC/blob/main/Imagens/Diagram.png)
