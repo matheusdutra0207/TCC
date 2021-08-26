@@ -1,0 +1,26 @@
+Fusão de sensores:
+
+DELGADO VARGAS, Jaime Armando. Odometria visual e fusão de sensores no problema de localização e mapeamento simultâneo de ambientes exteriores. 
+2015. 111 p. Tese (doutorado) - Universidade Estadual de Campinas, Faculdade de Engenharia Mecânica, Campinas, SP. 
+Disponível em: 
+<http://www.repositorio.unicamp.br/handle/REPOSIP/265760>. Acesso em: 28 ago. 2018.
+
+Localização: 
+
+DELGADO VARGAS, Jaime Armando. Localização e navegação de robô autônomo através de odometria e visão estereoscópica. 2012. 53 f. 
+Dissertação (mestrado) - Universidade Estadual de Campinas, Faculdade de Engenharia Mecânica, Campinas, SP. 
+Disponível em: 
+<http://www.repositorio.unicamp.br/handle/REPOSIP/264542>. Acesso em: 20 ago. 2018.
+
+Mobilysa:
+
+
+
+
+Livros:
+
+SIEGWART, Roland; NOURBAKHSH, Illah Reza; SCARAMUZZA, Davide. Introduction to autonomous mobile robots. MIT press, 2011.
+
+CHOSET, Howie M., et al. Principles of robot motion: theory, algorithms, and implementation. MIT press, 2005.
+
+DUDEK, Gregory; JENKIN, Michael. Computational principles of mobile robotics. Cambridge university press, 2010.
