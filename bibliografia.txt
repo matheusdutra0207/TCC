@@ -14,6 +14,8 @@ Disponível em:
 
 Mobilysa:
 
+DO CARMO, Alexandre Pereira et al. Uso de um Espaço Inteligente Baseado em Visão Computacional para o Controle de Formação de Robôs Móveis.
+In: Anais do XII Simpósio Brasileiro de Computação Ubíqua e Pervasiva. SBC, 2020.
 
 
 
