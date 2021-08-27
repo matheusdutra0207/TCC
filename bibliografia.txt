@@ -26,3 +26,9 @@ SIEGWART, Roland; NOURBAKHSH, Illah Reza; SCARAMUZZA, Davide. Introduction to au
 CHOSET, Howie M., et al. Principles of robot motion: theory, algorithms, and implementation. MIT press, 2005.
 
 DUDEK, Gregory; JENKIN, Michael. Computational principles of mobile robotics. Cambridge university press, 2010.
+
+--------------------------------------------
+BURGARD, Wolfram; THRUN, Sebastian; FOX, Dieter. PROBABILISTIC ROBOTICS. United States: Cambridge, 2000. 480 p.
+Citação com autor incluído no texto: Burgard, Thrun e Fox (2000)
+Citação com autor não incluído no texto: (BURGARD; THRUN; FOX, 2000)
+-----------------------------------------------------------
