@@ -5,6 +5,19 @@ DELGADO VARGAS, Jaime Armando. Odometria visual e fusão de sensores no problema
 Disponível em: 
 <http://www.repositorio.unicamp.br/handle/REPOSIP/265760>. Acesso em: 28 ago. 2018.
 
+RAMOS; COSTA, Daniel. Aplicação de técnicas de fusão sensorial para mapeamento e localização 
+simultâneos para robôs terrestres. 2012. 122 f. Dissertação (Doutorado) - Curso de Engenharia Elétrica, Universidade Federal de Santa Catarina, 
+Santa Catarina, 2012. Disponível em: https://repositorio.ufsc.br/handle/123456789/100770. Acesso em: 05 out. 2021.
+
+J. Shen, D. Tick and N. Gans, "Localization through fusion of discrete and continuous
+epipolar geometry with wheel and IMU odometry," Proceedings of the 2011 American
+Control Conference, San Francisco, CA, 2011, pp. 1292-1298, doi:
+10.1109/ACC.2011.5990946.
+
+
+Ramos e Costa (2012)
+(RAMOS; COSTA, 2012)
+
 Localização: 
 
 DELGADO VARGAS, Jaime Armando. Localização e navegação de robô autônomo através de odometria e visão estereoscópica. 2012. 53 f. 
@@ -12,10 +25,25 @@ Dissertação (mestrado) - Universidade Estadual de Campinas, Faculdade de Engen
 Disponível em: 
 <http://www.repositorio.unicamp.br/handle/REPOSIP/264542>. Acesso em: 20 ago. 2018.
 
+Rodrigues, M. L (2011). Localização em ambientes
+internos utilizando múltiplas tecnologias sem fio.
+Dissertação do Departamento de Ciência da
+Computação. UFMG, Belo Horizonte
+
+(Rodrigues, 2011)
+
 Mobilysa:
 
 DO CARMO, Alexandre Pereira et al. Uso de um Espaço Inteligente Baseado em Visão Computacional para o Controle de Formação de Robôs Móveis.
 In: Anais do XII Simpósio Brasileiro de Computação Ubíqua e Pervasiva. SBC, 2020.
+
+COTTA, Wagner Augusto Aranda; MACHADO, Flávio; VASSALLO, Raquel Frizera; CARMO, Alexandre Pereira do; 
+GARCIA, Anilton Salles; SELLIN, Nedinalva de Araujo. MobiLysa - Sistema de localização e controle do cão-guia robô Lysa para ambientes internos baseado 
+em visão computacional. 2019. 6 f. Tese (Doutorado) - 
+Curso de Engenharia Elétrica, Universidade Federal do Espirito Santo, Vitória, 2020.
+
+Cotta, Machado, Vassallo, Carmo, Garcia e Sellin (2019)
+(COTTA; MACHADO; VASSALLO; CARMO; GARCIA; SELLIN, 2019)
 
 
 
